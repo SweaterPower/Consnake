@@ -1,0 +1,11 @@
+C:\Users\swite\YandexDisk\repos\Consnake\Consnake\bin\Release\netcoreapp3.0\Consnake.exe
+C:\Users\swite\YandexDisk\repos\Consnake\Consnake\bin\Release\netcoreapp3.0\Consnake.deps.json
+C:\Users\swite\YandexDisk\repos\Consnake\Consnake\bin\Release\netcoreapp3.0\Consnake.runtimeconfig.json
+C:\Users\swite\YandexDisk\repos\Consnake\Consnake\bin\Release\netcoreapp3.0\Consnake.runtimeconfig.dev.json
+C:\Users\swite\YandexDisk\repos\Consnake\Consnake\bin\Release\netcoreapp3.0\Consnake.dll
+C:\Users\swite\YandexDisk\repos\Consnake\Consnake\bin\Release\netcoreapp3.0\Consnake.pdb
+C:\Users\swite\YandexDisk\repos\Consnake\Consnake\obj\Release\netcoreapp3.0\Consnake.csprojAssemblyReference.cache
+C:\Users\swite\YandexDisk\repos\Consnake\Consnake\obj\Release\netcoreapp3.0\Consnake.AssemblyInfoInputs.cache
+C:\Users\swite\YandexDisk\repos\Consnake\Consnake\obj\Release\netcoreapp3.0\Consnake.AssemblyInfo.cs
+C:\Users\swite\YandexDisk\repos\Consnake\Consnake\obj\Release\netcoreapp3.0\Consnake.dll
+C:\Users\swite\YandexDisk\repos\Consnake\Consnake\obj\Release\netcoreapp3.0\Consnake.pdb

@@ -1,0 +1,8 @@
+C:\Users\swite\YandexDisk\repos\Consnake\Consnake\bin\Release\net472\Consnake.exe.config
+C:\Users\swite\YandexDisk\repos\Consnake\Consnake\bin\Release\net472\Consnake.exe
+C:\Users\swite\YandexDisk\repos\Consnake\Consnake\bin\Release\net472\Consnake.pdb
+C:\Users\swite\YandexDisk\repos\Consnake\Consnake\obj\Release\net472\Consnake.csprojAssemblyReference.cache
+C:\Users\swite\YandexDisk\repos\Consnake\Consnake\obj\Release\net472\Consnake.AssemblyInfoInputs.cache
+C:\Users\swite\YandexDisk\repos\Consnake\Consnake\obj\Release\net472\Consnake.AssemblyInfo.cs
+C:\Users\swite\YandexDisk\repos\Consnake\Consnake\obj\Release\net472\Consnake.exe
+C:\Users\swite\YandexDisk\repos\Consnake\Consnake\obj\Release\net472\Consnake.pdb
